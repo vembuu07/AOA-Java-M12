@@ -1,8 +1,8 @@
 # EX 2A Assign Cookies using Greedy Algorithm.
 
-### Developed By: Afifa A
+### Developed By: Vembarasan P
 
-### Register Number: 212223040008
+### Register Number: 212223220123
 
 ## AIM:
 
